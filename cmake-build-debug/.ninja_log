@@ -1,0 +1,12 @@
+# ninja log v6
+985	1046	1746224864353948424	PetShelter	1272deba307fdc20
+3	984	1746224863372174234	CMakeFiles/PetShelter.dir/sheltermanager.cpp.o	3edfcbb3fdc67955
+3	831	1746224757361531869	CMakeFiles/PetShelter.dir/fish.cpp.o	11a200290663ea8a
+3	688	1746224757361783220	CMakeFiles/PetShelter.dir/interestedadopter.cpp.o	b7081f3be544e466
+3	830	1746224757361238664	CMakeFiles/PetShelter.dir/cat.cpp.o	6ab5be4fe1f120df
+3	74	1746225407335725792	build.ninja	4756567748b2c2
+3	842	1746224757362033341	CMakeFiles/PetShelter.dir/pet.cpp.o	e1a84f1072fa7d7f
+1	744	1746224732984642999	CMakeFiles/PetShelter.dir/main.cpp.o	a1f7c699f2396410
+2	101	1746225407335725792	build.ninja	4756567748b2c2
+3	876	1746225407349119928	CMakeFiles/PetShelter.dir/main.cpp.o	a1f7c699f2396410
+877	944	1746225408222175755	PetShelter	2eac73365f3689c2
