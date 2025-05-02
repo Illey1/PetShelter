@@ -22,8 +22,7 @@ real-world factors like rabies tracking, adopter assignments, and daily care rou
 - **Base Class:** `Pet`
 - **Derived Classes:** `Cat`, `Fish`
 - **Composition:** `Interested_Adopter`
-- **Core Manager:** Handles pets using a raw pointer array or vector (depending on version)
-
+- **Core Manager:** Handles pets using a raw pointer array
 ---
 
 ## 🛠️ Build Instructions
